@@ -1,4 +1,4 @@
-git status
+cjchhgit status
 git add
 git config --global
 git config --list

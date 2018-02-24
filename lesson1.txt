@@ -1,3 +1,4 @@
 git log 
 git diff
 git clone
+giy jokc
